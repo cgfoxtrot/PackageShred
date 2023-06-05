@@ -48,7 +48,7 @@ Replace script_name.sh with the actual name of the script file.
 
 Execute the script using the following command:
 <pre>
-sudo ./script_name.sh
+sudo ./scrub.sh
 </pre>
 Follow the prompts to choose whether to uninstall and purge a package and provide the package name to uninstall and scrub securely.
 
