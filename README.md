@@ -77,4 +77,4 @@ The script prompts the user for input to ensure that the correct package is unin
 Feedback and Confirmation: 
 The script provides feedback to the user, indicating the actions performed and confirming the successful uninstallation and secure scrubbing of the package and its associated data.
 
-It is important to note that this script is provided as-is, without any warranty or guarantee. Users should
+It is important to note that this script is provided as-is, without any warranty or guarantee.
