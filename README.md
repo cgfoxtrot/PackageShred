@@ -1,6 +1,6 @@
 # Package Shred
 
-**Package Uninstall and Secure Scrub Script**
+**Package Uninstall and Secure Shred Script**
 
 This script is designed to help users securely uninstall and scrub sensitive data associated with a package from a Linux system. It ensures that the package and its dependencies are thoroughly removed and any remaining data is securely deleted.
 
