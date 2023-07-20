@@ -1,4 +1,4 @@
-# SCRUB
+# Package Shred
 
 **Package Uninstall and Secure Scrub Script**
 
